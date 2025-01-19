@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+      "**/*.exe": true
+    },
+    "search.exclude": {
+      "**/*.exe": true
+    },
+    "files.watcherExclude": {
+      "**/*.exe": true
+    }
+  }
+  
